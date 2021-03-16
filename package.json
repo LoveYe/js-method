@@ -1,0 +1,15 @@
+{
+  "name": "js-method",
+  "version": "1.0.5",
+  "description": "js常用的转化方法（时间戳,类型,自定义分隔符）暂时是支持的（ym,ymd,ymdhms,dhms,hms,hm）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveYe/js-method.git"
+  },
+  "author": "wy0718",
+  "license": "ISC"
+}
